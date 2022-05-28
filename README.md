@@ -1,6 +1,10 @@
 ## Olá! Eu Sou o Diogo Rodrigues 🖐
 
-<div>
+
+- 📓 Cursando Desenvolvimento de Sistemas no Colégio Técnico de Campinas - Unicamp 💻
+---
+
+<div style=margin>
   <a href="https://github.com/diogoramosr">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogoramosr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoramosr&theme=midnight-purple&hide_border=false&&layout=compact"/>
@@ -23,10 +27,6 @@
   <a href="mailto:contatoworklog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/diogorodriguesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://t.me/diogoramosr" target="_blank"><img src="https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-    
-    
-    
-    
     
 </div>
   
