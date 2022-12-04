@@ -2,6 +2,7 @@
 
 
 - Cursando Desenvolvimento de Sistemas no Colégio Técnico de Campinas - Unicamp 💻
+- Estudante de Ciência da Computação pela Universidade Paulista - UNIP 🐱‍💻
 ---
 
 <div style=margin>
