@@ -1,7 +1,7 @@
 ## Olá! Eu Sou o Diogo Rodrigues 🖐
 
 
-- Cursando Desenvolvimento de Sistemas no Colégio Técnico de Campinas - Unicamp 💻
+- Cursando Desenvolvimento de Sistemas no Colégio Técnico de Campinas - Unicamp 👨‍💻
 - Estudante de Ciência da Computação pela Universidade Paulista - UNIP 🐱‍💻
 ---
 
